@@ -103,7 +103,7 @@
         };
 
         at {
-            bindings = <&kp AT>;
+            bindings = <&kp EXCL>;
             key-positions = <2 14>;
             layers = <0>;
         };
