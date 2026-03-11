@@ -247,7 +247,7 @@
 
         cursor {
             bindings = <
-&trans  &trans     &kp LC(V)  &kp LC(C)  &kp LC(X)       &kp LG(X)    &kp RG(X)  &kp DELETE      &kp TAB       &kp SPACE       &kp ENTER        &kp ESCAPE
+&trans  &trans     &kp LC(V)  &kp LC(C)  &kp LC(X)       &kp LG(X)    &kp RG(X)  &trans          &kp TAB       &kp SPACE       &kp ENTER        &kp ESCAPE
 &trans  &kp LCTRL  &kp LALT   &kp LGUI   &kp LEFT_SHIFT  &kp LG(C)    &kp RG(C)  &kp LEFT_ARROW  &kp UP_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
 &trans  &trans     &trans     &trans     &trans          &kp LG(V)    &kp RG(V)  &trans          &trans        &trans          &trans           &trans
                               &trans     &trans          &trans       &kp ENTER  &trans          &trans
